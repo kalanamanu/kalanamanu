@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalana_manupiya" target="blank"><img src="https://img.shields.io/twitter/follow/kalana_manupiya?logo=twitter&style=for-the-badge" alt="kalana_manupiya" /></a> </p>
 
-- 🔭 I’m currently working on **Sara Enterprises**
+- 🔭 I’m currently studing on **ESOFT METRO CAMPUS-KURUNEGALA**
 
 - 🌱 I’m currently learning **Vue, Flutter, Angular**
 
