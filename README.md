@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Full-Stack Developments**
 
-- 💬 Ask me about **React, Node , Python, PHP, Java, C#, Express**
+- 💬 Ask me about **React, Node, Python, PHP, JavaScript, C#, Express**
 
 - 📫 How to reach me **kalanamanupiya32@gmail.com**
 
