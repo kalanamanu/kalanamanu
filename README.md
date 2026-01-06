@@ -14,23 +14,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a dedicated and versatile software engineer with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.<br>
 I am a BEng (Hons) Software Engineering graduate who has developed, maintained, and contributed to **production-grade ERP, CRM, POS, and web platforms**.
 
-- 🎓 **BEng (Hons) Software Engineering** – Academically Completed  
-- 💼 Experience with real-world business & production platforms  
-- 🔐 Designed & implemented **JWT Authentication** and **Role-Based Access Control**  
-- 🌱 Currently sharpening my expertise in **React**, **Next.js**, and strong backend fundamentals  
-- 🚀 Actively seeking a **Graduate / Junior Software Engineer** role
+- **BEng (Hons) Software Engineering** – Academically Completed  
+- Experience with real-world business & production platforms  
+- Designed & implemented **JWT Authentication** and **Role-Based Access Control**  
+- Currently sharpening my expertise in **React**, **Next.js**, and strong backend fundamentals  
+- Actively seeking a **Graduate / Junior Software Engineer** role
 
-📫 Reach me at: **kalanamanupiya32@gmail.com**<br>
-🌐 Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
+Reach me at: **kalanamanupiya32@gmail.com**<br>
+Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222) 
@@ -69,7 +69,7 @@ I am a BEng (Hons) Software Engineering graduate who has developed, maintained, 
 
 ---
 
-## 🌟 What You'll Discover
+## What You'll Discover
 
 - Full-stack projects with **CRUD**, authentication, and API best practices
 - Real-world apps featuring **secure payments**, dashboards, and scalable business logic
