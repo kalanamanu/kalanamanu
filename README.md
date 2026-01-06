@@ -68,9 +68,4 @@ Explore my work: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalanamanu&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamanu&theme=radical" alt="GitHub Streak"/>
-</p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kalanamanu&show_icons=true&theme=radical" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamanu&theme=radical" /> </p>
