@@ -79,23 +79,12 @@ I am a BEng (Hons) Software Engineering graduate who has developed, maintained, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalanamanu&show_icons=true&theme=radical" alt="Kalana's GitHub stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamanu&theme=radical" alt="Kalana's GitHub streak" />
-</p>
-
----
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
   Connect with me 🤝
 </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/kalana-jayasekara" target="_blank">
+    <a href="https://www.linkedin.com/in/kalana-jayasekara-4b5135217/" target="_blank">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
     </a>
     <a href="https://github.com/kalanamanu" target="_blank">
@@ -103,9 +92,6 @@ I am a BEng (Hons) Software Engineering graduate who has developed, maintained, 
     </a>
     <a href="mailto:kalanamanupiya32@gmail.com">
       <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png"/>
-    </a>
-    <a href="https://twitter.com/kalana_manupiya" target="_blank">
-      <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png"/>
     </a>
 </p>
 
