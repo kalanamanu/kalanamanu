@@ -1,87 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kalana M. Jayasekara</h1>
-<h3 align="center">Graduate Software Engineer | Full-Stack Developer</h3>
+<h1 align="center">Hi there, I'm Kalana M. Jayasekara 👋</h1>
+<h3 align="center">Graduate Software Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalanamanu&label=Profile%20views&color=0e75b6&style=flat" alt="kalanamanu" />
+  <img src="https://komarev.com/ghpvc/?username=kalanamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Graduate Software Engineer** with a strong foundation in **object-oriented programming, software design, and full-stack development**.  
-I’ve worked on **real-world, production-style applications** using modern technologies, focusing on **clean architecture, secure authentication, and scalable APIs**.
+I am a passionate **Graduate Software Engineer** with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.  
+My journey so far has involved building **production-grade applications** for real-world business needs using contemporary technology stacks — always putting **clean architecture, robust authentication, and scalability** at the forefront.
 
 - 🎓 **BEng (Hons) Software Engineering** – Academically Completed  
-- 💼 Experience building ERP, CRM, POS, and web platforms  
-- 🔐 Implemented **JWT-based authentication** and **role-based access control**  
-- 🌱 Currently **refreshing and strengthening** React, Next.js, Node.js, and backend fundamentals  
-- 🚀 Actively seeking a **Graduate / Junior Software Engineer** role  
+- 🏢 Practical experience in ERP, CRM, POS, and web platforms  
+- 🔐 Designed & implemented **JWT authentication** and **role-based access control**  
+- 🌱 Currently focusing on deepening my understanding of **React**, **Next.js**, **Node.js**, and backend systems  
+- 🚀 Seeking opportunities for a **Graduate / Junior Software Engineer** position
 
-📫 **Email:** kalanamanupiya32@gmail.com  
-🌐 **Portfolio:** www.kalanajayasekara.me  
+Reach me at: **kalanamanupiya32@gmail.com**  
+Explore my work: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ---
 
 ## 🧠 Skills & Technologies
 
-- **Programming:** JavaScript, TypeScript, C#, Python  
-- **Frontend Development:** React, Next.js, Tailwind CSS, HTML, CSS  
-- **Backend Development:** Node.js, Express.js, ASP.NET, .NET Framework  
-- **APIs & Security:** RESTful APIs, JWT-based Authentication, Role-Based Access Control  
-- **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL  
-- **Software Engineering:** Object-Oriented Programming (OOP), SDLC, Basic Data Structures  
-- **Tools:** Git, GitHub, Postman, Visual Studio, VS Code  
+- **Languages:** JavaScript, TypeScript, C#, Python
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, ASP.NET, .NET Framework
+- **APIs/Security:** RESTful APIs, JWT Authentication, RBAC
+- **Databases:** MongoDB, PostgreSQL, SQL Server, MySQL
+- **Principles:** OOP, SDLC, Data Structures
+- **Tools:** Git, GitHub, Postman, Visual Studio, VS Code
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-### Languages
-- JavaScript, **TypeScript**
-- C#, Python
+|      Languages      |         Frontend         |          Backend          |         Databases         |      Dev Tools      |
+|:-------------------:|:-----------------------:|:------------------------:|:------------------------:|:-------------------:|
+| JavaScript, TS      | React, Next.js          | Node.js, Express.js      | MongoDB, PostgreSQL      | Git, GitHub         |
+| C#, Python          | Tailwind CSS, HTML, CSS | ASP.NET, .NET Framework  | SQL Server, MySQL        | VS Code, VS, Postman|
 
-### Frontend
-- React, **Next.js**
-- **Tailwind CSS**
-- HTML, CSS
-
-### Backend & APIs
-- Node.js, Express.js
-- ASP.NET, .NET Framework
-- RESTful APIs
-- **JWT-based Authentication & Role-Based Access Control**
-
-### Databases
-- **MongoDB**
-- PostgreSQL, SQL Server, MySQL
-
-### Tools
-- Git, GitHub
-- Visual Studio, VS Code
-- Postman
+- **APIs:** REST, JWT-based Authentication, Role-Based Access Control
 
 ---
 
-## 📌 What You’ll Find Here
+## 📌 What You'll Discover
 
-- Full-stack projects demonstrating **CRUD operations**, authentication, and API design  
-- Applications with **secure payments**, dashboards, and real business logic  
-- Clean, well-documented repositories focused on **learning, improvement, and best practices**
+- **Full-stack projects** with CRUD, authentication, and clean REST API design  
+- Repositories featuring **secure payments**, user dashboards, and **real business workflows**  
+- Focus on solid fundamentals, code quality, and best practices for continuous learning
 
-> I believe strong fundamentals, consistency, and the ability to learn fast matter more than knowing everything upfront.
+> _“Strong fundamentals and consistency trump knowing everything upfront. I’m a fast learner eager to deliver value and grow as an engineer.”_
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/kalana-jayasekara" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/kalana_manupiya" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
+  <a href="https://linkedin.com/in/kalana-jayasekara" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
 </p>
 
 ---
@@ -89,9 +69,8 @@ I’ve worked on **real-world, production-style applications** using modern tech
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalanamanu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalanamanu&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamanu&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamanu&theme=radical" alt="GitHub Streak"/>
 </p>
