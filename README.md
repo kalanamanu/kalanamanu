@@ -7,23 +7,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a passionate **Graduate Software Engineer** with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.  
-My journey so far has involved building **production-grade applications** for real-world business needs using contemporary technology stacks — always putting **clean architecture, robust authentication, and scalability** at the forefront.
+My journey so far has involved building **production-grade applications** for real-world business needs using contemporary technology stacks - always putting **clean architecture, robust authentication, and scalability** at the forefront.
 
-- 🎓 **BEng (Hons) Software Engineering** – Academically Completed  
-- 🏢 Practical experience in ERP, CRM, POS, and web platforms  
-- 🔐 Designed & implemented **JWT authentication** and **role-based access control**  
-- 🌱 Currently focusing on deepening my understanding of **React**, **Next.js**, **Node.js**, and backend systems  
-- 🚀 Seeking opportunities for a **Graduate / Junior Software Engineer** position
+- **BEng (Hons) Software Engineering** – Academically Completed  
+- Practical experience in ERP, CRM, POS, and web platforms  
+- Designed & implemented **JWT authentication** and **role-based access control**  
+- Currently focusing on deepening my understanding of **React**, **Next.js**, **Node.js**, and backend systems  
+- Seeking opportunities for a **Graduate / Junior Software Engineer** position
 
 Reach me at: **kalanamanupiya32@gmail.com**  
 Explore my work: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 - **Languages:** JavaScript, TypeScript, C#, Python
 - **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
@@ -35,7 +35,7 @@ Explore my work: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 |      Languages      |         Frontend         |          Backend          |         Databases         |      Dev Tools      |
 |:-------------------:|:-----------------------:|:------------------------:|:------------------------:|:-------------------:|
@@ -46,13 +46,23 @@ Explore my work: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ---
 
-## 📌 What You'll Discover
+##  What You'll Discover
 
 - **Full-stack projects** with CRUD, authentication, and clean REST API design  
 - Repositories featuring **secure payments**, user dashboards, and **real business workflows**  
 - Focus on solid fundamentals, code quality, and best practices for continuous learning
 
 > _“Strong fundamentals and consistency trump knowing everything upfront. I’m a fast learner eager to deliver value and grow as an engineer.”_
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/kalana-jayasekara" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+</p>
 
 ---
 
