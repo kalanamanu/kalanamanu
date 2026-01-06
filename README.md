@@ -100,5 +100,5 @@ I am a BEng (Hons) Software Engineering graduate who has developed, maintained, 
 <br>
 
 <div align="center">
-	<h4>Kalana M. Jayasekara © 2024</h4>
+	<h4>Kalana M. Jayasekara © 2026</h4>
 </div>	
