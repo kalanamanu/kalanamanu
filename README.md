@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a passionate **Graduate Software Engineer** with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.  
+I am a passionate **Junior Software Engineer** with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.  
 My journey so far has involved building **production-grade applications** for real-world business needs using contemporary technology stacks - always putting **clean architecture, robust authentication, and scalability** at the forefront.
 
 - **BEng (Hons) Software Engineering** – Academically Completed  
