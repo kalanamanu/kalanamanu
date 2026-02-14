@@ -100,5 +100,5 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 <br>
 
 <div align="center">
-	<h4>Kalana M. Jayasekara © 2026</h4>
+	<h4>Kalana M Jayasekara © 2026</h4>
 </div>	
