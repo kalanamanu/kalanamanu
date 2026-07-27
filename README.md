@@ -19,7 +19,7 @@
 I'm a dedicated and versatile software engineer with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.<br>
 I am a BEng (Hons) Software Engineering graduate who has developed, maintained, and contributed to **production-grade ERP, CRM, POS, and web platforms**.
 
-- **BEng (Hons) Software Engineering** – Academically Completed  
+- **BEng (Hons) Software Engineering** – Graduated With First Class (Honours)  
 - Experience with real-world business & production platforms  
 - Designed & implemented **JWT Authentication** and **Role-Based Access Control**  
 - Currently sharpening my expertise in **React**, **Next.js**, and strong backend fundamentals  
