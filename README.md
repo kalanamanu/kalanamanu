@@ -20,8 +20,8 @@ I'm a Software Engineer with professional experience in **full-stack web develop
 
 I have experience developing and maintaining **ERP, CRM, POS, and custom web applications**, working across frontend and backend technologies while following software engineering best practices.
 
-- **BEng (Hons) Software Engineering** – First Class Honours Graduate  
-- **Pearson BTEC Level 5 HND in Computing** – Distinction | Top Performer Award  
+- **BEng (Hons) Software Engineering** - First Class Honours Graduate  
+- **Pearson BTEC Level 5 HND in Computing** - Distinction | Top Performer Award  
 - Currently working as a **Software Engineer at Niolla**
 - Experience developing production-level applications and client-driven solutions
 - Strong foundation in **Object-Oriented Programming, Software Design, REST APIs, and Full-Stack Development**
@@ -35,7 +35,7 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ## Professional Experience
 
-### Software Engineer — Niolla
+### Software Engineer - Niolla
 **March 2024 - Present**
 
 - Developing and maintaining full-stack web applications including ERP, CRM, and POS systems
