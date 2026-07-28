@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kalana M. Jayasekara</h1>
-  <h3>Junior Software Engineer • Full-Stack Developer | Sri Lanka 🇱🇰</h3>
+  <h3>Software Engineer • Full-Stack Developer | Sri Lanka 🇱🇰</h3>
   <br>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kalanamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -16,17 +16,33 @@
 
 ## About Me
 
-I'm a dedicated and versatile software engineer with a solid foundation in **object-oriented programming**, **software design**, and **full-stack development**.<br>
-I am a BEng (Hons) Software Engineering graduate who has developed, maintained, and contributed to **production-grade ERP, CRM, POS, and web platforms**.
+I'm a Software Engineer with professional experience in **full-stack web development**, specializing in building scalable business applications and modern web platforms.
 
-- **BEng (Hons) Software Engineering** – Graduated With First Class (Honours)  
-- Experience with real-world business & production platforms  
-- Designed & implemented **JWT Authentication** and **Role-Based Access Control**  
-- Currently sharpening my expertise in **React**, **Next.js**, and strong backend fundamentals  
-- Actively seeking a **Graduate / Junior Software Engineer** role
+I have experience developing and maintaining **ERP, CRM, POS, and custom web applications**, working across frontend and backend technologies while following software engineering best practices.
+
+- **BEng (Hons) Software Engineering** – First Class Honours Graduate  
+- **Pearson BTEC Level 5 HND in Computing** – Distinction | Top Performer Award  
+- Currently working as a **Software Engineer at Niolla**
+- Experience developing production-level applications and client-driven solutions
+- Strong foundation in **Object-Oriented Programming, Software Design, REST APIs, and Full-Stack Development**
+- Experienced with authentication systems including **JWT and Role-Based Access Control (RBAC)**
+- Continuously improving knowledge in **cloud technologies, DevOps practices, and AI-driven applications**
 
 Reach me at: **kalanamanupiya32@gmail.com**<br>
 Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
+
+---
+
+## Professional Experience
+
+### Software Engineer — Niolla
+**March 2024 - Present**
+
+- Developing and maintaining full-stack web applications including ERP, CRM, and POS systems
+- Building frontend solutions using React and Next.js
+- Developing backend services using Node.js, REST APIs, C#, and .NET technologies
+- Implementing authentication and authorization features using JWT and RBAC concepts
+- Collaborating with teams to deliver reliable software solutions based on client requirements
 
 ---
 
@@ -71,18 +87,20 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ## What You'll Discover
 
-- Full-stack projects with **CRUD**, authentication, and API best practices
-- Real-world apps featuring **secure payments**, dashboards, and scalable business logic
-- Code focused on clean design, documentation, and learning by doing
+- Full-stack applications built with modern frontend and backend technologies
+- Enterprise-style systems including ERP, CRM, and POS platforms
+- Projects demonstrating authentication, APIs, database design, and scalable architecture
+- Clean, maintainable code following software engineering principles
 
-> _"Strong fundamentals and consistency matter more than knowing everything upfront. I’m a fast learner eager to deliver value and grow as an engineer."_
+> _"Great software is built through continuous learning, strong fundamentals, and solving real-world problems with effective engineering practices."_
 
 ---
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
   Connect with me 🤝
 </h3>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/kalana-jayasekara-4b5135217/" target="_blank">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
@@ -101,4 +119,4 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 <div align="center">
 	<h4>Kalana M Jayasekara © 2026</h4>
-</div>	
+</div>
