@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kalana M. Jayasekara</h1>
-  <h3>Software Engineer • Full-Stack Developer | MSc Computer Science</h3>
+  <h1>Hey <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kalana M. Jayasekara</h1>
+  <h3>Software Engineer • Full-Stack Developer | MSc Computer Science Student 🇬🇧</h3>
   <br>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kalanamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -16,18 +16,19 @@
 
 ## About Me
 
-I'm a Software Engineer with professional experience in **full-stack web development**, specializing in building scalable business applications and modern web platforms.
+I'm a Software Engineer and MSc Computer Science student with professional experience in **full-stack web development**, software design, and object-oriented programming.
 
-I have experience developing **ERP, CRM, POS, and custom web applications**, working across frontend and backend technologies while applying software engineering principles and best practices.
+I have experience developing and maintaining **ERP, CRM, POS, and custom web applications**, working across frontend and backend technologies while applying software engineering principles to real-world projects.
 
-- **MSc Computer Science** - York St John University, London Campus *(2026 - Present)*
+- **MSc Computer Science** - York St John University, London Campus | **2026 – Present**
 - **BEng (Hons) Software Engineering** - First Class Honours
-- **Pearson BTEC Level 5 HND in Computing (Software Engineering)** - Distinction | Top Performer
-- Professional experience developing **production-level software and client-driven solutions**
+- **Pearson BTEC Level 5 HND in Computing** - Distinction | Top Performer
+- Professional experience developing production-level applications and client-driven solutions
 - Strong foundation in **Object-Oriented Programming, Software Design, REST APIs, and Full-Stack Development**
-- Experienced with **React, Next.js, Node.js, C#, .NET, JavaScript, TypeScript, and Python**
-- Interested in **cloud computing, cybersecurity, AI-driven applications, and modern software engineering practices**
-- Continuously developing technical expertise through postgraduate study and practical software projects
+- Experienced with authentication systems including **JWT and Role-Based Access Control (RBAC)**
+- Currently expanding my knowledge in **cloud computing, cybersecurity, AI, and modern software engineering practices**
+
+I'm currently based in **Colchester, United Kingdom**.
 
 Reach me at: **kalanamanupiya32@gmail.com**<br>
 Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
@@ -36,47 +37,43 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 ## Education
 
-### MSc Computer Science
-**York St John University - London Campus**  
-**2026 - Present**
+### MSc Computer Science - York St John University
+**London Campus | 2026 – Present**
 
 - Postgraduate study in Computer Science
-- Developing knowledge in cloud computing, cybersecurity, IoT, smart systems, and embedded AI
+- Developing advanced knowledge in cloud computing, cybersecurity, IoT, smart systems, and embedded AI
 - Exploring deep learning and neural architectures
 - Applying user-centred agile development practices
-- Strengthening software engineering knowledge through postgraduate study and research
+- Strengthening software engineering knowledge through postgraduate study and dissertation research
 
 ### BEng (Hons) Software Engineering - First Class Honours
-**London Metropolitan University (UK) via ESOFT Metro Campus**  
-**2025 - 2026**
+**London Metropolitan University (UK) via ESOFT Metro Campus**
 
 - Graduated with **First Class Honours**
 - Strong foundation in Object-Oriented Programming, software design, and software engineering principles
-- Developed full-stack applications through academic and real-world projects
-- Final Year Project: **TalentForge - AI-Driven Recruitment Platform**
+- Developed full-stack applications and applied software development practices
+- Final Year Project: **TalentForge – AI-Driven Recruitment Platform**
 
-### Pearson BTEC Level 5 HND in Computing (Software Engineering) - Distinction
-**Pearson College London - ESOFT Metro Campus**  
-**2023 - 2025**
+### Pearson BTEC Level 5 HND in Computing (Software Engineering)
+**ESOFT Metro Campus**
 
 - Completed with **Distinction**
 - Recognised as a **Top Performer**
 - Developed multiple full-stack and backend-focused applications
-- Gained practical experience with C#, .NET, JavaScript, React, databases, and software development practices
+- Strengthened knowledge of programming, databases, software engineering, and system development
 
 ---
 
 ## Professional Experience
 
-### Software Engineer - NIOLLA
-**March 2024 - August 2026**
+### Software Engineer - Niolla
+**March 2024 – August 2026**
 
 - Developed and maintained full-stack web applications including ERP, CRM, and POS systems
 - Built frontend solutions using React and Next.js
 - Developed backend services using Node.js, REST APIs, C#, and .NET technologies
 - Implemented authentication and authorization features using JWT and RBAC concepts
-- Worked on client-driven software solutions and real-world business applications
-- Collaborated throughout the software development lifecycle to deliver reliable solutions
+- Collaborated on client-driven projects and delivered software based on business requirements
 
 ---
 
@@ -102,15 +99,15 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=fff)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge)
+![.NET Framework](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+![REST APIs](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=fff)
 ![JWT](https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
 ![RBAC](https://img.shields.io/badge/-Role%20Based%20Access%20Control-0078D4?style=for-the-badge)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)
 
@@ -129,9 +126,9 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 - Full-stack applications built with modern frontend and backend technologies
 - Enterprise-style systems including **ERP, CRM, and POS platforms**
 - Projects demonstrating **authentication, REST APIs, database design, and scalable architecture**
-- AI-assisted and AI-driven applications
-- Academic and real-world software engineering projects
-- Clean, maintainable code following software engineering principles
+- AI-assisted and AI-driven software projects
+- Practical implementations of software engineering principles
+- Clean, maintainable code focused on solving real-world problems
 
 > _"Great software is built through continuous learning, strong fundamentals, and solving real-world problems with effective engineering practices."_
 
@@ -139,7 +136,7 @@ Portfolio: [kalanajayasekara.me](https://www.kalanajayasekara.me)
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-  Connect with me
+  Connect with me 🤝
 </h3>
 
 <p align="center">
