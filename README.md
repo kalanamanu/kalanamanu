@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Hey <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kalana M. Jayasekara</h1>
+  <h1>
+  Hey
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  , I'm Kalana M. Jayasekara
+</h1>
   <h3>Software Engineer • Full-Stack Developer | MSc Computer Science Student 🇬🇧</h3>
   <br>
   <p align="center">
